@@ -3,7 +3,7 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  value
+  name=value
 end
 
 def argue(argument)
@@ -19,6 +19,7 @@ def return_a_value
 end
 
 def last_evaluated_value
+  "novice"
   "expert"
 end
 
